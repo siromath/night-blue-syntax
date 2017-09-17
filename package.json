@@ -1,0 +1,18 @@
+{
+  "name": "night-blue-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Atom syntax theme based on night.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "night",
+    "blue",
+    "dark"
+  ],
+  "repository": "https://github.com/siromath/night-blue-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
