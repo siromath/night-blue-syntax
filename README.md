@@ -4,4 +4,4 @@ Atom syntax theme based on night.
 
 Support html.
 
-![Imgur](https://i.imgur.com/7DCbBff.png)
+![night-blue-syntax](https://i.imgur.com/EVr04LC.png)
